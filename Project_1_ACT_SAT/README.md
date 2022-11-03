@@ -14,7 +14,7 @@ For this first project, we are going to take a look at aggregate ACT and SAT par
 
 ### Problem Statement
 
-###### The ministry of Education has hired you in order to advise on the impacts of Covid and somes states going test optional in regards to the participation and scores.
+The ministry of Education has hired you in order to advise on the impacts of Covid and somes states going test optional in regards to the participation and scores.
 
 
 ### Datasets
