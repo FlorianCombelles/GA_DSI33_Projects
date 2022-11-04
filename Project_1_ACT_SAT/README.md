@@ -198,6 +198,30 @@ The five states with the highest increase in SAT Participation...
 Since ACT participation as been dropping consistently since 2017 and SAT has been increasing, this particular phenomenon could follow a trend of states slowly moving from ACT to SAT
 This could also be due to the SAT exam being more available to take on during Covid time for these specific tests
 
+Conclusion: 
+
+* Covid had an important impact on ACT and SAT participations 
+> Examinations center and schools might have been disrupted by Covid
+> Some states and/or universities decided go to test optional
+* Covid also had an important impact on ACT and SAT scores
+> Scores for both ACT and SAT have seen a sharp increase in 2020
+* There is a strong negative correlation between participation and scores
+> Higher participation causes lower scores 
+> Lower participation causes higher scores
+* There is also a negative correlation between exams participation rates 
+> The state with the highest ACT participation drops are also the states with highest SAT participation increase
+> While this is true for ACT to SAT this is not the case for SAT to ACT 
+
 Recommendation:
-* Analyse the trend in participation in ACT and SAT for every state throughout the years and see if there is a correlation
-* More research on exam taking availability in each state during Covid period.
+
+* Covid had an important impact on ACT and SAT participations 
+> A further analysis of examination center availability and school disruption during preparation period might give more insight on the cause of the drops in participation
+> A state by state analysis on test optional schools may also provide a clearer picture on possible causes
+* Covid also had an important impact on ACT and SAT scores
+* There is a strong negative correlation between participation and scores
+> An further analysis on the population of students who attended the test might give a clearer picture on the scores evolution
+> A societal analysis of covid impact on minorities can also help understand the disparity
+* There is also a negative correlation between exams participation rates 
+> A further analysis on the SAT adoption trend over ACT  in the past 5 years might help understand why some states are moving over to SAT
+> An analysis on how ACT and SAT have handled exam availability during Covid can also help understand this trend.
+
