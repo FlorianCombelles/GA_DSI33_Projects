@@ -1,0 +1,879 @@
+Bsmt Qual,1st Flr SF,Garage Area,Gr Liv Area,Overall Qual,Neighborhood,House Style,Exterior 1st,Mas Vnr Type,Foundation,Garage Type,Age
+2,908,440,1928,6,4,2Story,AsbShng,None,Stone,Detchd,96
+4,1967,580,1967,5,7,1Story,Plywood,None,CBlock,Attchd,29
+4,664,426,1496,7,14,2Story,VinylSd,None,PConc,Attchd,0
+3,968,480,968,5,4,1Story,Wd Sdng,None,CBlock,Detchd,84
+4,1394,514,1394,6,11,1Story,Plywood,BrkFace,CBlock,Attchd,46
+3,546,286,1092,4,1,2Story,CemntBd,None,CBlock,Attchd,38
+3,1093,308,1093,4,4,1Story,MetalSd,None,CBlock,Detchd,50
+4,1268,252,1268,5,20,1Story,HdBoard,None,CBlock,Detchd,32
+4,840,588,1680,7,22,2Story,VinylSd,None,PConc,Attchd,6
+3,1279,473,1279,6,13,1Story,Plywood,None,CBlock,Detchd,31
+4,1217,484,1217,6,15,1Story,Plywood,None,PConc,Attchd,15
+3,1040,320,1040,6,2,1Story,VinylSd,None,CBlock,Detchd,83
+3,1375,451,1375,6,11,1Story,Wd Sdng,None,CBlock,Attchd,52
+5,1168,820,2787,7,15,2Story,VinylSd,BrkFace,PConc,BuiltIn,9
+3,1017,240,1827,6,6,2Story,BrkComm,None,BrkTil,Detchd,82
+0,1340,252,1340,5,5,1Story,Wd Sdng,BrkFace,PConc,Attchd,50
+3,884,828,1436,6,4,1.5Fin,Wd Sdng,None,CBlock,Detchd,68
+3,1073,340,1073,5,5,1Story,MetalSd,None,CBlock,Attchd,53
+3,1773,418,1773,6,11,1Story,HdBoard,BrkFace,CBlock,Attchd,45
+3,916,424,1742,8,4,2Story,Wd Sdng,None,BrkTil,Attchd,127
+3,1060,270,1060,5,7,1Story,Plywood,None,CBlock,Attchd,42
+3,864,732,864,5,7,1Story,MetalSd,None,CBlock,Detchd,48
+4,1617,533,1617,6,15,1Story,Plywood,None,PConc,Attchd,15
+3,988,540,988,6,23,SLvl,Plywood,None,CBlock,Attchd,37
+4,1218,576,1218,7,15,1Story,VinylSd,None,PConc,Detchd,2
+3,864,352,864,5,20,1Story,HdBoard,None,CBlock,Detchd,36
+3,1281,368,1738,4,11,1.5Fin,VinylSd,None,BrkTil,Attchd,89
+2,1089,240,1750,5,4,2Story,VinylSd,None,BrkTil,Detchd,126
+3,1054,480,1054,6,11,SFoyer,MetalSd,BrkFace,PConc,Attchd,47
+3,442,0,670,3,6,1.5Fin,MetalSd,None,CBlock,,62
+3,858,684,858,4,11,1Story,HdBoard,None,CBlock,Detchd,36
+3,848,539,1208,4,2,1.5Fin,MetalSd,None,CBlock,Detchd,84
+3,1320,864,2640,7,4,2Story,Stucco,None,Stone,Detchd,129
+4,1178,439,1178,5,16,1Story,HdBoard,None,CBlock,Attchd,35
+4,1492,608,1492,7,20,1Story,VinylSd,BrkFace,PConc,Attchd,8
+4,608,454,1458,7,14,2Story,VinylSd,Stone,PConc,BuiltIn,1
+3,1147,162,1657,4,4,1.5Fin,Wd Sdng,None,PConc,Detchd,86
+0,998,460,998,4,7,1Story,Wd Sdng,None,Slab,2Types,62
+3,910,414,910,5,11,1Story,WdShing,None,Stone,Attchd,55
+4,1358,625,1358,7,22,1Story,CemntBd,None,PConc,Detchd,8
+4,612,528,1224,6,22,2Story,VinylSd,Stone,PConc,Detchd,0
+4,956,431,1886,7,14,2Story,VinylSd,None,PConc,Attchd,8
+3,1327,624,1327,5,11,1Story,MetalSd,None,CBlock,Detchd,48
+3,1363,288,1363,5,11,1Story,Wd Sdng,BrkCmn,CBlock,CarPort,58
+4,1501,512,1501,7,21,1Story,VinylSd,BrkFace,BrkTil,Attchd,20
+3,798,0,1344,4,1,2Story,CemntBd,None,CBlock,,39
+4,920,608,1786,7,20,2Story,VinylSd,BrkFace,PConc,Attchd,7
+3,965,300,965,5,15,1Story,VinylSd,None,CBlock,Detchd,41
+3,936,308,936,5,11,1Story,MetalSd,None,CBlock,Attchd,54
+3,1040,308,1040,5,7,1Story,HdBoard,None,CBlock,Attchd,47
+3,912,160,1248,5,4,1.5Fin,Wd Sdng,None,CBlock,Detchd,77
+2,1157,624,2268,8,4,2Story,Wd Sdng,None,Stone,Detchd,120
+4,1615,864,1615,8,20,1Story,VinylSd,Stone,PConc,Attchd,1
+3,803,297,1360,5,2,1.5Fin,Wd Sdng,None,CBlock,Detchd,68
+3,822,320,1142,5,6,1.5Fin,Stucco,BrkFace,BrkTil,Attchd,85
+3,1026,440,1026,6,11,1Story,Plywood,None,CBlock,Detchd,40
+3,1133,240,1820,7,6,1.5Fin,Wd Sdng,None,PConc,Detchd,83
+3,1344,484,1344,5,11,1Story,HdBoard,None,CBlock,Detchd,49
+3,1193,506,1193,7,16,1Story,Plywood,None,CBlock,Attchd,34
+4,992,839,1865,7,20,2Story,VinylSd,None,PConc,Attchd,8
+4,2006,938,2006,8,26,1Story,VinylSd,BrkFace,PConc,Attchd,10
+3,1140,400,1140,5,7,1Story,BrkFace,None,PConc,CarPort,88
+3,1176,303,1176,5,7,1Story,Plywood,BrkFace,CBlock,Attchd,49
+4,845,464,1670,7,16,2Story,HdBoard,None,CBlock,Attchd,37
+4,810,484,1603,6,15,2Story,VinylSd,None,PConc,Attchd,14
+4,2063,815,2063,8,26,1Story,Wd Sdng,BrkFace,PConc,Attchd,15
+3,858,0,858,4,11,1Story,HdBoard,None,CBlock,,35
+4,1302,631,1302,6,27,1Story,VinylSd,Stone,PConc,Attchd,2
+3,774,0,774,3,5,1Story,MetalSd,None,BrkTil,,76
+4,848,420,848,6,20,1Story,VinylSd,BrkFace,PConc,Attchd,4
+2,747,528,747,4,6,1Story,MetalSd,BrkFace,PConc,Detchd,80
+5,1508,640,2520,8,27,2Story,VinylSd,Stone,PConc,BuiltIn,2
+3,1560,580,1560,6,19,1Story,Wd Sdng,BrkFace,CBlock,Attchd,47
+4,802,402,1472,7,14,SLvl,HdBoard,BrkFace,PConc,Attchd,16
+4,1050,336,1050,5,11,1Story,Plywood,BrkFace,CBlock,Attchd,38
+4,1724,480,1724,6,16,SLvl,HdBoard,BrkFace,CBlock,Attchd,42
+0,1771,336,1771,5,13,1Story,HdBoard,BrkFace,Slab,Attchd,49
+3,1207,264,1207,6,11,1Story,HdBoard,BrkCmn,CBlock,Attchd,44
+0,882,294,882,5,11,1Story,MetalSd,None,Slab,Attchd,48
+5,1780,816,1780,9,27,1Story,MetalSd,BrkFace,PConc,Attchd,2
+4,1459,527,1459,7,20,1Story,VinylSd,BrkFace,PConc,Attchd,5
+3,727,625,1107,6,2,1.5Fin,Wd Sdng,None,BrkTil,Detchd,89
+3,687,336,1358,5,4,2Story,VinylSd,None,BrkTil,Detchd,77
+4,760,528,1436,4,5,2Story,Plywood,None,CBlock,Attchd,96
+4,616,603,1688,6,23,2Story,VinylSd,None,PConc,Attchd,11
+5,2042,1390,2042,8,27,1Story,VinylSd,BrkFace,PConc,Attchd,1
+3,876,484,876,5,20,1Story,Wd Sdng,None,CBlock,Detchd,38
+4,1320,495,1320,6,16,SFoyer,HdBoard,BrkFace,CBlock,Attchd,38
+4,1707,511,1707,8,21,1Story,Plywood,BrkFace,CBlock,Attchd,25
+3,1064,576,1495,6,11,1.5Fin,MetalSd,None,CBlock,Detchd,61
+3,999,264,999,5,7,1Story,HdBoard,None,CBlock,Detchd,45
+2,796,384,1346,4,5,2Story,MetalSd,None,CBlock,Detchd,97
+4,827,240,1251,6,4,1.5Fin,MetalSd,None,PConc,Detchd,72
+4,1228,472,1228,8,28,1Story,HdBoard,None,PConc,Attchd,20
+3,728,224,1274,5,6,1.5Fin,MetalSd,None,CBlock,Detchd,68
+3,914,374,1642,6,4,2Story,Wd Sdng,None,BrkTil,Detchd,80
+3,1509,322,1509,5,5,1Story,Wd Sdng,None,CBlock,Attchd,52
+4,1554,627,1554,8,27,1Story,VinylSd,Stone,PConc,Attchd,1
+4,827,627,1677,6,15,2Story,VinylSd,None,PConc,Attchd,7
+4,810,528,1665,8,16,2Story,VinylSd,None,PConc,Attchd,8
+4,1694,642,1694,8,24,1Story,MetalSd,BrkFace,CBlock,Attchd,32
+3,1790,540,1790,6,11,1Story,Plywood,BrkFace,CBlock,Attchd,51
+3,923,264,923,5,13,1Story,HdBoard,None,CBlock,Attchd,24
+5,2470,789,2470,10,27,1Story,MetalSd,Stone,PConc,Attchd,5
+3,1244,336,1244,6,11,1Story,VinylSd,None,CBlock,Attchd,50
+3,866,0,866,5,4,1Story,VinylSd,None,CBlock,,62
+4,697,420,1501,6,14,2Story,HdBoard,BrkFace,PConc,Attchd,13
+4,1287,678,1891,6,16,1.5Fin,MetalSd,None,PConc,Attchd,32
+3,1921,576,1921,6,7,1Story,BrkFace,None,CBlock,Detchd,42
+3,1832,0,1832,4,7,1Story,Plywood,BrkFace,CBlock,,43
+3,1434,528,1434,6,11,1Story,Plywood,BrkFace,CBlock,Attchd,35
+4,1058,588,1874,8,22,2Story,VinylSd,None,PConc,Attchd,9
+0,1382,384,1382,4,4,SLvl,Stucco,None,Slab,Attchd,58
+4,1140,0,1140,5,13,1Story,VinylSd,None,PConc,,0
+4,1494,514,1494,7,15,1Story,VinylSd,None,PConc,Attchd,9
+5,1831,807,3627,10,26,2Story,HdBoard,BrkFace,PConc,Attchd,11
+4,1032,672,1812,5,4,2Story,Wd Sdng,None,BrkTil,Detchd,110
+3,630,440,1302,5,3,2Story,HdBoard,BrkFace,CBlock,Detchd,37
+5,1720,846,1720,9,20,1Story,VinylSd,Stone,PConc,Attchd,1
+3,926,470,1604,6,14,2Story,VinylSd,BrkFace,PConc,Attchd,12
+5,1966,1092,1966,10,22,1Story,CemntBd,BrkFace,PConc,Attchd,0
+4,1120,753,1970,8,27,2Story,VinylSd,Stone,PConc,BuiltIn,0
+5,1714,517,1714,9,28,1Story,MetalSd,BrkFace,PConc,Attchd,1
+4,794,388,1470,6,14,2Story,VinylSd,None,PConc,Attchd,10
+3,954,440,2230,4,8,2.5Fin,Wd Sdng,None,PConc,Detchd,94
+5,1414,1003,2331,9,27,2Story,CemntBd,BrkFace,PConc,BuiltIn,3
+3,864,288,864,5,20,1Story,MetalSd,None,CBlock,Attchd,34
+3,1008,240,1008,5,11,1Story,Wd Sdng,None,CBlock,Attchd,54
+3,565,355,1216,5,6,1.5Fin,AsbShng,None,BrkTil,BuiltIn,88
+4,1530,984,1530,9,22,1Story,VinylSd,Stone,PConc,Attchd,2
+4,1025,370,1025,5,20,SLvl,VinylSd,BrkFace,CBlock,Detchd,31
+4,943,472,1638,6,14,2Story,VinylSd,None,PConc,Attchd,10
+3,720,480,1440,5,7,2Story,HdBoard,None,CBlock,Attchd,42
+3,1128,315,1128,6,11,SFoyer,HdBoard,BrkFace,CBlock,Attchd,44
+4,757,440,1549,6,22,2Story,MetalSd,Stone,PConc,Detchd,9
+4,1225,312,2133,7,19,1.5Fin,Wd Sdng,BrkFace,BrkTil,Attchd,69
+4,1369,605,1369,7,22,1Story,VinylSd,None,PConc,Attchd,0
+4,1114,576,1114,7,15,1Story,VinylSd,None,PConc,Detchd,5
+4,1302,631,1302,6,27,1Story,VinylSd,Stone,PConc,Attchd,2
+4,816,264,816,5,13,1Story,HdBoard,None,CBlock,Attchd,24
+3,1381,676,1381,6,16,1Story,Plywood,None,CBlock,Attchd,38
+3,1078,240,1078,5,11,1Story,MetalSd,None,CBlock,Attchd,60
+3,756,216,1469,6,2,1.5Fin,MetalSd,None,CBlock,Detchd,102
+3,1474,495,1474,6,14,1Story,BrkFace,None,CBlock,Attchd,56
+0,929,0,1137,5,5,1.5Fin,MetalSd,None,Slab,,61
+3,960,400,1960,5,4,2Story,Wd Sdng,BrkFace,CBlock,Detchd,57
+3,1048,576,1768,6,4,2Story,MetalSd,None,PConc,Detchd,94
+4,689,299,1392,6,20,2Story,HdBoard,BrkFace,CBlock,Attchd,33
+2,432,216,864,4,2,2Story,MetalSd,None,Stone,Detchd,88
+4,1740,540,1740,7,24,1Story,BrkFace,None,CBlock,Attchd,28
+4,860,565,1720,7,20,2Story,VinylSd,None,PConc,Attchd,2
+3,988,332,1626,6,5,1.5Fin,Wd Sdng,None,CBlock,Attchd,53
+3,1088,0,1198,6,4,1.5Fin,MetalSd,None,BrkTil,,88
+3,900,288,900,5,11,SFoyer,HdBoard,None,CBlock,Attchd,39
+3,792,240,792,5,4,1Story,VinylSd,None,BrkTil,Detchd,85
+3,1098,260,1098,5,11,1Story,Wd Sdng,BrkFace,CBlock,Attchd,53
+3,546,0,1092,4,1,2Story,CemntBd,None,CBlock,,40
+3,936,315,936,6,11,1Story,VinylSd,None,CBlock,Attchd,50
+5,912,833,2127,7,15,2Story,HdBoard,None,PConc,Attchd,16
+4,1055,905,2263,8,20,2Story,VinylSd,BrkFace,PConc,BuiltIn,7
+4,1493,508,1493,6,20,1Story,VinylSd,BrkFace,PConc,Attchd,11
+3,768,240,1200,5,5,1.5Fin,MetalSd,None,CBlock,Detchd,62
+3,1056,260,1056,5,11,1Story,Wd Sdng,None,CBlock,Attchd,53
+5,2674,762,2674,10,27,1Story,VinylSd,Stone,PConc,Attchd,2
+5,1456,539,1456,9,27,1Story,VinylSd,BrkFace,PConc,Attchd,1
+4,1563,758,1563,8,22,1Story,VinylSd,Stone,PConc,Attchd,1
+4,1114,576,1114,6,15,1Story,VinylSd,None,PConc,Detchd,5
+4,1145,437,1145,7,18,1Story,VinylSd,BrkFace,PConc,Attchd,4
+4,960,541,2318,7,22,2Story,VinylSd,None,PConc,BuiltIn,1
+4,1445,470,1445,7,20,1Story,VinylSd,Stone,PConc,Attchd,4
+5,2411,813,4476,10,26,2Story,Wd Sdng,None,PConc,Attchd,11
+4,990,480,990,5,20,1Story,VinylSd,None,PConc,Detchd,15
+3,1560,528,1560,5,5,SLvl,Plywood,Stone,CBlock,Attchd,44
+4,520,480,1223,7,22,2Story,MetalSd,None,PConc,Detchd,1
+4,1086,409,1895,7,14,2Story,MetalSd,None,PConc,Attchd,14
+3,1085,440,1734,6,11,1.5Fin,Wd Sdng,None,CBlock,Attchd,44
+2,691,216,691,5,4,1Story,Wd Sdng,None,BrkTil,Detchd,87
+3,1949,586,1949,5,7,1Story,Plywood,BrkFace,CBlock,Attchd,29
+3,546,286,1092,4,1,2Story,CemntBd,None,CBlock,CarPort,36
+3,1242,324,1242,5,11,1Story,BrkFace,None,CBlock,Attchd,47
+3,894,0,1666,5,8,1.5Fin,VinylSd,None,PConc,,79
+3,1098,486,1978,7,16,2Story,MetalSd,BrkFace,CBlock,Attchd,40
+3,1516,518,2167,7,24,2Story,Wd Sdng,None,CBlock,Attchd,33
+4,738,440,1492,7,14,2Story,VinylSd,None,PConc,Attchd,0
+4,1350,478,1350,6,16,1Story,HdBoard,BrkFace,CBlock,Attchd,35
+3,698,280,1258,6,5,1.5Fin,WdShing,None,BrkTil,Detchd,70
+4,806,400,1489,7,14,2Story,VinylSd,None,PConc,Attchd,6
+4,1160,315,2068,7,6,2.5Unf,Wd Sdng,None,BrkTil,Detchd,88
+3,980,400,980,5,7,1Story,HdBoard,None,CBlock,Detchd,47
+0,944,528,944,3,5,1Story,BrkComm,None,Slab,Detchd,57
+4,832,528,1664,7,16,2Story,HdBoard,None,PConc,Attchd,30
+4,945,253,945,5,1,1Story,CemntBd,None,CBlock,Attchd,37
+3,838,275,838,6,6,1Story,Stucco,None,BrkTil,Detchd,90
+4,864,276,864,5,7,1Story,Wd Sdng,None,CBlock,Attchd,45
+4,783,393,1484,6,14,2Story,VinylSd,None,PConc,Attchd,2
+4,912,470,912,6,13,SFoyer,VinylSd,None,CBlock,Attchd,29
+4,955,880,1874,8,22,2Story,VinylSd,Stone,PConc,Attchd,1
+3,992,240,1465,5,8,1.5Fin,VinylSd,None,CBlock,Detchd,67
+3,1021,300,1601,5,7,SLvl,MetalSd,None,CBlock,BuiltIn,50
+4,1145,684,1145,5,11,SLvl,VinylSd,None,CBlock,Detchd,50
+5,1645,962,2475,8,26,2Story,VinylSd,BrkFace,PConc,Attchd,12
+3,1226,432,2104,7,4,2.5Unf,Wd Sdng,None,BrkTil,Detchd,96
+3,934,336,934,6,7,SLvl,HdBoard,None,CBlock,Attchd,42
+4,832,506,1710,6,15,2Story,HdBoard,BrkFace,PConc,Attchd,15
+3,741,379,1427,6,4,2Story,Wd Sdng,None,BrkTil,Attchd,94
+0,1040,420,1040,4,11,1Story,BrkFace,None,Slab,Detchd,56
+4,855,460,1456,6,12,2Story,Plywood,None,CBlock,Attchd,30
+3,621,280,1269,6,5,2Story,VinylSd,BrkCmn,CBlock,Detchd,46
+4,1370,484,1370,8,27,1Story,VinylSd,Stone,PConc,Attchd,1
+4,894,668,1933,6,22,2Story,VinylSd,Stone,PConc,BuiltIn,1
+4,947,451,1714,6,14,2Story,VinylSd,None,PConc,Attchd,8
+3,943,540,1876,6,16,2Story,HdBoard,BrkFace,CBlock,Attchd,34
+3,949,205,1292,4,5,1.5Fin,Wd Sdng,None,PConc,Detchd,85
+4,2036,513,2036,7,21,1Story,BrkFace,None,CBlock,Attchd,44
+4,1557,484,1557,9,22,1Story,VinylSd,BrkFace,PConc,Attchd,9
+4,844,506,1737,7,15,2Story,HdBoard,None,PConc,Attchd,16
+4,1830,521,1830,7,23,1Story,Plywood,BrkFace,CBlock,Attchd,39
+3,707,240,1389,7,4,2Story,HdBoard,None,CBlock,Detchd,63
+4,892,0,892,4,2,SFoyer,MetalSd,None,PConc,,86
+3,1040,286,1040,5,11,1Story,BrkFace,None,CBlock,Attchd,48
+4,713,506,1452,7,22,2Story,MetalSd,BrkFace,PConc,Detchd,7
+3,1056,576,1056,6,4,SFoyer,Plywood,None,CBlock,Detchd,30
+3,983,483,1796,6,11,2Story,HdBoard,BrkFace,CBlock,Attchd,45
+4,684,400,1560,6,14,2Story,VinylSd,None,PConc,BuiltIn,4
+3,856,399,856,6,8,1Story,Wd Sdng,None,CBlock,Detchd,71
+3,846,576,846,5,4,1Story,Wd Sdng,None,BrkTil,Detchd,89
+4,1149,779,2290,8,20,2Story,CemntBd,None,PConc,Attchd,6
+4,982,574,1977,7,22,2Story,VinylSd,None,PConc,Attchd,1
+3,1273,307,1273,5,19,1Story,MetalSd,None,CBlock,Attchd,49
+4,1277,889,2344,7,26,2Story,VinylSd,BrkFace,PConc,Attchd,13
+3,1518,0,1518,5,5,1Story,PreCast,None,PConc,,68
+4,630,0,630,4,1,SFoyer,CemntBd,None,CBlock,,38
+3,1157,240,1844,4,4,1.5Fin,Wd Sdng,BrkFace,PConc,Basment,110
+3,768,355,768,4,5,1Story,MetalSd,None,CBlock,Detchd,52
+3,1360,795,3112,8,11,2Story,Stucco,None,PConc,Detchd,88
+4,691,409,1498,6,14,2Story,HdBoard,None,PConc,Attchd,11
+3,844,216,844,5,4,1Story,MetalSd,None,BrkTil,Detchd,81
+5,1794,754,2772,9,27,2Story,VinylSd,Stone,PConc,BuiltIn,2
+5,2097,1134,2097,8,22,1Story,VinylSd,None,PConc,Attchd,1
+5,1352,466,1352,7,22,1Story,VinylSd,None,PConc,Attchd,1
+4,1079,685,1919,8,20,2Story,VinylSd,None,PConc,Attchd,0
+4,1284,480,1284,6,16,1Story,HdBoard,None,CBlock,Attchd,23
+4,1234,656,2374,8,27,2Story,VinylSd,BrkFace,PConc,BuiltIn,4
+5,1164,502,2314,7,5,2Story,VinylSd,None,PConc,BuiltIn,3
+5,2018,746,2018,9,21,1Story,Stucco,None,PConc,Attchd,2
+4,1651,870,1651,8,20,1Story,VinylSd,Stone,PConc,Attchd,0
+2,882,502,882,6,11,1Story,MetalSd,None,CBlock,Attchd,53
+3,894,396,894,4,11,1Story,VinylSd,None,CBlock,Detchd,49
+4,1007,463,1800,6,14,2Story,VinylSd,BrkFace,PConc,Attchd,9
+5,1869,617,1869,9,27,1Story,MetalSd,BrkFace,PConc,Attchd,0
+4,1625,495,1625,8,19,1Story,CemntBd,Stone,PConc,Attchd,1
+3,1192,240,1595,6,8,1.5Fin,Wd Sdng,None,CBlock,Attchd,66
+4,1142,466,2020,8,15,2Story,VinylSd,None,PConc,Attchd,14
+4,912,615,2094,7,22,2Story,VinylSd,None,PConc,BuiltIn,6
+4,1412,576,1412,6,21,1Story,HdBoard,None,CBlock,Attchd,21
+3,728,258,1162,3,6,1.5Fin,AsbShng,None,CBlock,Detchd,76
+3,792,0,1140,4,4,1.5Fin,Wd Sdng,None,BrkTil,,100
+5,1848,706,2728,9,27,2Story,CemntBd,BrkFace,PConc,Attchd,1
+4,1079,473,1879,7,15,2Story,VinylSd,None,PConc,Attchd,16
+3,2279,461,2279,6,21,1Story,HdBoard,BrkFace,CBlock,Attchd,49
+4,744,400,1374,7,14,SLvl,VinylSd,None,PConc,BuiltIn,3
+3,768,308,1536,6,2,2Story,MetalSd,None,CBlock,Detchd,56
+3,672,264,1218,6,3,2Story,HdBoard,BrkFace,CBlock,Detchd,34
+3,1094,495,1094,6,5,1Story,Wd Sdng,Stone,CBlock,Attchd,55
+5,887,422,2021,7,14,2Story,VinylSd,None,PConc,BuiltIn,0
+3,993,483,1806,6,11,2Story,HdBoard,BrkFace,CBlock,Attchd,45
+3,1314,294,1314,5,11,1Story,MetalSd,None,CBlock,Attchd,53
+4,1006,425,1775,7,15,2Story,HdBoard,BrkFace,PConc,Attchd,16
+3,1350,520,1350,6,11,SLvl,Plywood,BrkFace,CBlock,Attchd,44
+4,1072,525,1072,6,5,SFoyer,VinylSd,BrkFace,PConc,Basment,1
+3,1260,506,2291,6,4,2.5Unf,MetalSd,None,BrkTil,Detchd,97
+4,778,614,1576,7,22,2Story,VinylSd,None,PConc,Attchd,0
+2,998,576,1762,7,4,2Story,Wd Sdng,None,BrkTil,Detchd,86
+3,1968,1014,3447,8,19,1.5Fin,Stucco,BrkFace,CBlock,BuiltIn,73
+3,864,576,864,4,11,1Story,VinylSd,None,CBlock,Detchd,39
+4,1176,360,1176,5,5,1Story,HdBoard,None,CBlock,Attchd,37
+4,848,420,848,6,20,1Story,VinylSd,BrkFace,PConc,Attchd,4
+4,1432,588,1432,5,24,SLvl,Plywood,None,PConc,Attchd,29
+0,1048,420,1048,5,11,1Story,MetalSd,None,CBlock,Detchd,58
+3,1128,286,1128,5,11,1Story,Wd Sdng,None,CBlock,Attchd,52
+4,901,800,1801,8,14,2Story,VinylSd,None,PConc,Attchd,1
+3,810,400,1482,6,8,2Story,Wd Sdng,None,BrkTil,Detchd,83
+4,974,0,974,5,13,1Story,HdBoard,None,PConc,,16
+3,709,308,1017,5,4,1.5Fin,VinylSd,None,CBlock,Detchd,108
+3,869,440,1218,6,6,1.5Fin,Wd Sdng,None,BrkTil,Detchd,66
+4,979,467,1850,7,26,2Story,HdBoard,None,PConc,BuiltIn,15
+4,1170,360,2345,6,19,2Story,Wd Sdng,None,BrkTil,Detchd,74
+3,483,264,987,6,3,2Story,HdBoard,BrkFace,CBlock,Detchd,33
+2,784,360,784,6,15,1.5Unf,Wd Sdng,None,BrkTil,Detchd,81
+3,1144,596,1144,5,5,1Story,Wd Sdng,None,CBlock,Attchd,54
+3,888,240,888,5,11,1Story,HdBoard,BrkFace,CBlock,Attchd,46
+0,1286,528,1654,6,7,1.5Fin,VinylSd,None,CBlock,Attchd,29
+3,546,286,1092,4,1,2Story,CemntBd,None,CBlock,Attchd,31
+0,925,300,925,5,11,1Story,BrkFace,None,Slab,Attchd,46
+3,1437,576,1437,5,7,1Story,CemntBd,None,CBlock,Detchd,50
+4,848,420,848,6,20,1Story,VinylSd,BrkFace,PConc,Attchd,4
+4,784,610,1596,7,20,2Story,VinylSd,BrkFace,PConc,Attchd,1
+4,1094,647,2061,7,26,2Story,VinylSd,BrkFace,PConc,Attchd,14
+5,1440,467,1440,8,21,1Story,VinylSd,BrkFace,PConc,Attchd,5
+3,819,599,1603,6,19,2Story,Wd Sdng,None,BrkTil,Attchd,85
+4,979,492,1958,6,19,2Story,MetalSd,BrkFace,CBlock,Attchd,61
+5,1884,649,1884,9,27,1Story,MetalSd,BrkFace,PConc,Attchd,1
+3,980,484,980,5,7,1Story,Plywood,BrkFace,CBlock,Detchd,32
+3,1226,576,1902,5,4,2Story,Wd Sdng,None,BrkTil,Detchd,85
+2,672,256,672,5,4,1Story,MetalSd,None,CBlock,Detchd,68
+3,1006,0,1006,5,7,1Story,Wd Sdng,None,CBlock,,49
+3,1619,529,1786,5,21,1.5Fin,Plywood,None,CBlock,Attchd,43
+4,1294,662,1294,7,20,1Story,VinylSd,None,PConc,Attchd,0
+4,1152,252,1152,5,5,SFoyer,Plywood,None,PConc,Detchd,31
+3,1024,308,1024,5,7,1Story,HdBoard,None,CBlock,Attchd,41
+4,1278,342,2315,5,19,2Story,Wd Sdng,BrkFace,CBlock,Attchd,56
+4,1338,582,1338,8,28,1Story,CemntBd,None,PConc,Attchd,9
+5,1578,642,1578,7,22,1Story,VinylSd,BrkFace,PConc,Attchd,2
+4,1052,632,2373,8,14,2Story,VinylSd,BrkFace,PConc,BuiltIn,2
+0,862,0,2650,4,8,2Story,Plywood,None,Slab,,43
+5,1856,834,1856,9,28,1Story,VinylSd,Stone,PConc,Attchd,0
+5,1940,606,1940,9,27,1Story,VinylSd,Stone,PConc,Attchd,1
+5,1682,528,1682,8,28,1Story,CemntBd,None,PConc,Attchd,11
+4,1005,429,2291,7,14,2Story,VinylSd,BrkFace,PConc,BuiltIn,7
+3,979,352,1203,5,6,1.5Fin,MetalSd,BrkCmn,CBlock,Detchd,59
+0,672,0,912,4,6,1.5Fin,AsbShng,None,Slab,,59
+3,961,384,1367,5,5,1.5Fin,MetalSd,None,BrkTil,Detchd,108
+3,1026,308,1691,5,8,1.5Fin,BrkFace,None,BrkTil,Detchd,86
+4,1544,868,1544,8,27,1Story,VinylSd,Stone,PConc,Attchd,1
+3,894,600,894,5,20,1Story,MetalSd,None,CBlock,Detchd,37
+4,958,440,958,6,12,1Story,Plywood,None,CBlock,Attchd,33
+3,1306,756,1306,5,11,1Story,MetalSd,None,CBlock,Detchd,52
+4,1142,440,1142,7,18,1Story,VinylSd,BrkFace,PConc,Attchd,1
+3,976,299,1952,7,2,2Story,VinylSd,None,CBlock,Detchd,57
+3,1024,234,1728,5,11,2Story,Wd Sdng,None,CBlock,Attchd,57
+3,1866,495,1866,5,11,1Story,Wd Sdng,BrkFace,PConc,Detchd,51
+4,851,416,1709,6,14,2Story,HdBoard,BrkFace,PConc,Attchd,17
+3,928,400,1920,5,11,2Story,AsbShng,Stone,CBlock,Detchd,59
+4,1235,484,1235,8,17,1Story,Wd Sdng,None,CBlock,Attchd,26
+2,759,576,759,5,2,1Story,Wd Sdng,None,BrkTil,Detchd,96
+2,901,216,1802,7,19,2Story,Stucco,None,BrkTil,Detchd,86
+2,792,287,792,5,4,1Story,Stucco,None,PConc,Detchd,86
+2,1000,0,1544,4,4,1.5Fin,VinylSd,None,CBlock,,117
+3,1082,240,1082,6,11,1Story,MetalSd,BrkFace,CBlock,Detchd,59
+4,788,484,788,8,17,1Story,Wd Sdng,None,CBlock,Detchd,30
+3,1676,672,1676,5,13,1Story,Plywood,None,PConc,Attchd,30
+2,801,0,1447,5,4,1.5Fin,MetalSd,None,BrkTil,,99
+3,1036,288,1268,5,11,1Story,HdBoard,None,CBlock,Attchd,60
+4,804,523,1682,6,20,2Story,VinylSd,BrkFace,PConc,Attchd,12
+4,1402,713,2225,8,26,2Story,HdBoard,BrkFace,PConc,Attchd,18
+4,975,592,1848,8,22,2Story,VinylSd,None,PConc,Attchd,10
+4,821,443,1776,6,14,2Story,HdBoard,None,PConc,BuiltIn,10
+3,892,264,892,5,11,1Story,HdBoard,BrkFace,CBlock,Attchd,42
+4,788,388,1490,7,14,2Story,VinylSd,None,PConc,Attchd,4
+3,1064,528,1064,5,7,1Story,HdBoard,BrkFace,CBlock,Attchd,39
+3,978,0,1864,7,4,2.5Unf,MetalSd,Stone,BrkTil,,107
+3,684,440,1398,6,5,2Story,Plywood,None,CBlock,Attchd,32
+3,672,264,1218,6,3,2Story,HdBoard,BrkFace,CBlock,Detchd,34
+5,1660,500,1660,8,22,1Story,VinylSd,Stone,PConc,Attchd,0
+3,1350,504,1350,4,5,1Story,MetalSd,None,CBlock,Attchd,52
+4,1898,564,2978,7,11,SLvl,Wd Sdng,BrkFace,CBlock,BuiltIn,43
+3,780,640,1521,6,4,2Story,MetalSd,None,PConc,Detchd,99
+4,1431,666,1431,7,20,1Story,VinylSd,None,PConc,Attchd,10
+4,1040,642,2052,8,13,2Story,CemntBd,None,PConc,BuiltIn,9
+3,997,0,1517,5,2,1.5Fin,CemntBd,None,CBlock,,88
+3,958,240,1578,6,11,1.5Fin,Wd Sdng,None,CBlock,Attchd,65
+3,1608,444,1608,4,13,1Story,Plywood,CBlock,CBlock,Attchd,46
+4,725,180,1224,5,23,1.5Fin,Wd Sdng,None,BrkTil,Detchd,93
+3,1776,888,1776,5,11,1Story,VinylSd,BrkFace,CBlock,Detchd,51
+5,1234,484,1234,8,20,1Story,VinylSd,None,PConc,Attchd,1
+4,1625,538,1625,8,19,1Story,VinylSd,Stone,PConc,Attchd,1
+3,1572,995,1572,5,21,1Story,MetalSd,BrkFace,CBlock,2Types,44
+4,1647,621,1647,5,19,1Story,Plywood,BrkFace,CBlock,Attchd,29
+4,1072,486,2014,7,21,2Story,VinylSd,None,PConc,Attchd,6
+3,1163,220,1163,3,4,1Story,VinylSd,None,CBlock,Attchd,51
+3,1248,907,2544,6,11,2Story,MetalSd,Stone,CBlock,Attchd,40
+3,483,352,987,6,3,2Story,HdBoard,BrkFace,CBlock,Detchd,36
+3,1060,520,1824,6,6,2Story,Wd Sdng,None,PConc,Detchd,88
+5,1540,774,2855,9,26,2Story,VinylSd,BrkFace,PConc,Attchd,6
+3,913,240,913,6,7,SFoyer,VinylSd,None,CBlock,Detchd,41
+5,1776,712,1776,8,21,1Story,VinylSd,Stone,PConc,Attchd,1
+3,912,216,1426,7,19,1.5Fin,Wd Sdng,None,BrkTil,Detchd,89
+5,1646,482,1646,8,19,1Story,CemntBd,Stone,PConc,Attchd,4
+4,1314,626,1314,7,27,1Story,VinylSd,Stone,PConc,Attchd,2
+4,1049,266,1049,5,5,1Story,HdBoard,BrkFace,CBlock,Attchd,25
+4,840,308,1680,6,19,2Story,Wd Sdng,None,BrkTil,Attchd,93
+3,964,308,1889,7,4,2.5Unf,Wd Sdng,None,CBlock,Detchd,97
+5,1808,850,1808,9,27,1Story,VinylSd,None,PConc,Attchd,1
+5,1148,670,2550,8,27,2Story,VinylSd,BrkFace,PConc,BuiltIn,1
+4,933,493,1908,7,20,2Story,VinylSd,None,PConc,Attchd,14
+4,1643,438,1643,6,23,1Story,Plywood,None,CBlock,Attchd,42
+3,1766,520,2414,5,4,1.5Fin,Wd Sdng,None,CBlock,Attchd,106
+2,798,180,1512,8,19,2Story,Stucco,None,PConc,Detchd,83
+3,1188,312,1188,5,13,1Story,HdBoard,BrkFace,CBlock,Attchd,48
+3,948,400,1323,5,4,1.5Fin,WdShing,None,BrkTil,Detchd,60
+3,525,320,1092,5,3,2Story,HdBoard,BrkFace,CBlock,Detchd,39
+5,1726,786,1726,7,22,1Story,CemntBd,Stone,PConc,Attchd,0
+4,888,476,1564,6,15,2Story,HdBoard,BrkFace,CBlock,Attchd,30
+3,910,597,1521,4,11,1.5Fin,BrkComm,None,CBlock,Detchd,56
+4,1226,740,1226,7,20,1Story,VinylSd,None,PConc,Attchd,1
+3,816,0,816,4,4,1Story,Stucco,None,BrkTil,,99
+4,1330,437,1330,6,20,1Story,VinylSd,None,PConc,Attchd,1
+4,802,413,1511,6,14,2Story,VinylSd,None,PConc,Attchd,9
+4,858,576,858,5,7,SFoyer,Wd Sdng,None,CBlock,Detchd,27
+3,894,1248,894,3,2,1Story,MetalSd,None,CBlock,Detchd,73
+4,1080,492,1752,8,14,1.5Fin,Wd Sdng,None,Wood,Basment,22
+4,1782,551,1782,7,16,1Story,Plywood,BrkFace,CBlock,Attchd,29
+3,820,186,1343,5,19,1.5Fin,Wd Sdng,None,BrkTil,Detchd,88
+5,1717,908,1717,8,27,1Story,VinylSd,Stone,PConc,Attchd,3
+3,1507,404,1507,5,11,SLvl,BrkFace,None,CBlock,Basment,48
+3,1027,299,1027,5,11,1Story,BrkFace,None,CBlock,Attchd,46
+3,936,450,1680,5,8,1.5Fin,Wd Sdng,None,BrkTil,Detchd,100
+4,941,613,1829,7,20,2Story,VinylSd,BrkFace,PConc,Attchd,7
+4,1058,736,1904,8,27,2Story,VinylSd,BrkFace,PConc,BuiltIn,1
+3,952,840,952,5,11,1Story,HdBoard,None,CBlock,Detchd,57
+2,1131,672,1131,4,4,1Story,Stucco,BrkCmn,BrkTil,Detchd,70
+3,1024,480,1588,5,11,1.5Fin,MetalSd,None,CBlock,Detchd,53
+4,1539,441,2673,7,16,2Story,Plywood,BrkFace,CBlock,BuiltIn,29
+0,1764,301,1764,5,11,1Story,MetalSd,None,BrkTil,Attchd,51
+4,1220,556,2090,8,20,2Story,VinylSd,BrkFace,PConc,Attchd,12
+4,1276,676,2612,8,26,2Story,VinylSd,BrkFace,PConc,Attchd,11
+3,720,312,1271,5,7,1.5Fin,Wd Sdng,None,CBlock,Attchd,60
+4,1298,693,2514,7,21,2Story,MetalSd,None,Wood,Attchd,16
+3,864,576,864,4,11,1Story,HdBoard,None,CBlock,Detchd,38
+3,1803,484,1803,5,7,1Story,Wd Sdng,BrkCmn,CBlock,Attchd,49
+4,2422,527,2422,6,23,1Story,MetalSd,Stone,CBlock,Attchd,53
+3,1056,300,1056,5,11,1Story,HdBoard,None,CBlock,Attchd,51
+3,1308,1200,3086,5,11,2Story,Wd Sdng,None,BrkTil,BuiltIn,72
+3,736,200,1290,6,6,2Story,HdBoard,None,BrkTil,Detchd,108
+4,1541,843,1541,7,20,1Story,VinylSd,BrkFace,PConc,Attchd,5
+5,2020,900,2020,10,27,1Story,CemntBd,BrkFace,CBlock,Attchd,0
+4,1226,484,1226,8,17,1Story,Wd Sdng,None,CBlock,Attchd,28
+4,856,548,1710,7,20,2Story,VinylSd,BrkFace,PConc,Attchd,5
+3,918,360,918,7,13,SLvl,Plywood,Stone,CBlock,Attchd,32
+4,1668,702,1668,9,20,1Story,VinylSd,Stone,PConc,Attchd,5
+0,1126,520,1126,4,5,1Story,VinylSd,None,CBlock,Detchd,60
+3,1062,297,1062,6,11,1Story,MetalSd,BrkFace,CBlock,Attchd,55
+3,893,576,893,5,11,1.5Unf,MetalSd,None,CBlock,Detchd,58
+4,846,434,1594,7,14,2Story,VinylSd,None,PConc,Attchd,5
+3,1055,275,1273,4,5,1.5Fin,VinylSd,None,BrkTil,Detchd,96
+5,1158,853,2376,8,27,2Story,VinylSd,BrkFace,PConc,BuiltIn,1
+4,1368,474,1368,7,27,1Story,VinylSd,Stone,PConc,Attchd,1
+3,708,776,1416,6,16,2Story,HdBoard,BrkFace,CBlock,Attchd,38
+4,530,496,1080,7,22,2Story,VinylSd,None,PConc,Attchd,3
+2,1392,576,1392,6,11,1Story,Wd Sdng,BrkFace,CBlock,Attchd,41
+4,1014,457,1744,7,15,2Story,HdBoard,None,PConc,Attchd,17
+3,1214,318,1214,5,11,1Story,MetalSd,BrkFace,CBlock,Attchd,40
+2,760,240,1090,6,2,1.5Fin,VinylSd,None,CBlock,Detchd,68
+4,1208,546,1208,6,24,1Story,Plywood,None,CBlock,Attchd,29
+4,1102,582,1102,6,16,SFoyer,HdBoard,BrkFace,CBlock,Attchd,26
+3,1473,452,1473,5,23,1Story,Wd Sdng,None,CBlock,Attchd,41
+2,723,400,1086,2,4,2Story,AsbShng,None,BrkTil,Detchd,88
+3,765,200,765,4,6,1Story,MetalSd,None,BrkTil,Detchd,85
+4,1383,834,2398,7,26,2Story,VinylSd,BrkFace,PConc,Attchd,11
+3,864,576,864,5,20,1Story,VinylSd,None,CBlock,Detchd,35
+3,902,492,1820,7,11,2Story,VinylSd,Stone,CBlock,Attchd,43
+4,1702,844,1702,8,22,1Story,VinylSd,Stone,PConc,Attchd,2
+4,1358,484,1358,7,27,1Story,VinylSd,Stone,PConc,Attchd,1
+3,1022,468,1774,7,4,1.5Fin,BrkFace,None,BrkTil,Detchd,77
+4,756,615,1553,7,22,2Story,VinylSd,None,PConc,Attchd,1
+4,972,565,1811,8,22,2Story,VinylSd,None,PConc,Attchd,7
+4,1417,511,1417,7,20,1Story,VinylSd,BrkFace,PConc,Attchd,12
+3,1008,308,1008,5,11,1Story,Wd Sdng,BrkCmn,CBlock,Detchd,51
+4,927,506,1915,8,15,2Story,HdBoard,None,PConc,Attchd,14
+3,960,392,960,5,5,1Story,WdShing,None,CBlock,Detchd,48
+4,561,462,1229,6,10,2Story,MetalSd,None,CBlock,Attchd,29
+3,1056,308,1056,5,11,1Story,Wd Sdng,None,CBlock,Attchd,49
+3,660,453,1348,6,11,2Story,VinylSd,BrkFace,CBlock,Attchd,40
+5,2444,832,4316,10,26,2Story,HdBoard,BrkFace,PConc,Attchd,13
+3,1196,440,1196,4,2,1Story,MetalSd,None,CBlock,Detchd,91
+4,847,434,1959,7,14,2Story,VinylSd,None,PConc,BuiltIn,3
+4,944,525,1759,7,23,2Story,VinylSd,None,PConc,Attchd,17
+4,1290,570,2161,7,20,2Story,VinylSd,BrkFace,PConc,Attchd,7
+4,752,264,752,6,15,1Story,Plywood,None,CBlock,Attchd,26
+3,816,264,816,5,13,1Story,HdBoard,None,CBlock,Attchd,25
+4,884,504,884,5,15,SFoyer,HdBoard,None,CBlock,Attchd,24
+4,1614,865,1614,7,20,1Story,VinylSd,BrkFace,PConc,Attchd,1
+4,707,409,1516,6,14,2Story,HdBoard,None,PConc,Attchd,15
+3,897,264,897,5,7,1Story,HdBoard,BrkFace,CBlock,Attchd,39
+4,1122,746,2243,7,15,2Story,HdBoard,BrkFace,CBlock,Attchd,17
+4,1568,564,1568,8,22,1Story,CemntBd,None,PConc,Attchd,5
+3,1064,318,1064,5,11,1Story,WdShing,None,CBlock,Detchd,58
+3,780,462,1620,5,16,2Story,WdShing,BrkFace,CBlock,Attchd,38
+3,1012,429,1012,5,15,1Story,Wd Sdng,None,BrkTil,Detchd,90
+4,1316,397,1316,6,14,1Story,VinylSd,None,PConc,Attchd,1
+0,845,290,845,4,5,1Story,Wd Sdng,None,Slab,Detchd,52
+4,993,642,2236,7,14,2Story,HdBoard,BrkFace,PConc,BuiltIn,9
+4,630,0,630,5,1,SFoyer,CemntBd,None,CBlock,,36
+4,691,420,1553,7,14,2Story,HdBoard,None,PConc,Attchd,11
+4,1940,380,3194,8,19,2Story,BrkFace,None,PConc,Basment,73
+3,1136,384,1136,6,11,1Story,HdBoard,None,CBlock,Attchd,43
+4,848,420,848,6,20,1Story,VinylSd,BrkFace,PConc,Attchd,4
+4,1211,461,1211,6,16,1Story,HdBoard,BrkFace,PConc,Attchd,32
+4,1256,641,1256,6,22,1Story,VinylSd,Stone,PConc,Attchd,1
+3,861,506,1285,6,2,1.5Fin,MetalSd,None,PConc,Detchd,80
+3,1378,432,2372,5,4,2Story,Wd Sdng,None,Stone,Attchd,117
+4,1498,675,1498,7,20,1Story,VinylSd,None,PConc,Attchd,0
+3,1100,408,2264,6,4,2Story,Wd Sdng,None,CBlock,Detchd,89
+4,1107,484,2090,7,16,2Story,HdBoard,Stone,CBlock,Attchd,36
+5,1182,736,2324,9,27,2Story,WdShing,Stone,PConc,BuiltIn,1
+4,1414,398,1414,7,18,1Story,VinylSd,BrkFace,PConc,Attchd,2
+3,1212,0,1392,5,8,1.5Fin,Wd Sdng,None,BrkTil,,95
+3,884,216,1348,5,6,1.5Fin,Wd Sdng,None,BrkTil,Detchd,84
+3,1168,530,1968,5,13,2Story,HdBoard,BrkFace,CBlock,Attchd,39
+3,1149,544,1149,4,5,1Story,HdBoard,None,CBlock,2Types,49
+4,742,390,1484,6,14,2Story,VinylSd,None,PConc,Attchd,4
+3,1487,527,2499,8,24,SLvl,Plywood,BrkFace,CBlock,Attchd,33
+4,1119,437,1119,7,14,SLvl,VinylSd,None,PConc,Attchd,3
+4,1199,530,1199,6,15,1Story,Plywood,None,PConc,Attchd,15
+4,1846,495,1846,6,20,1Story,VinylSd,None,PConc,Attchd,0
+3,864,336,864,5,20,1Story,VinylSd,BrkFace,CBlock,Attchd,31
+4,1549,440,2727,8,19,2Story,BrkFace,None,CBlock,Detchd,75
+3,952,192,952,6,6,1.5Unf,Wd Sdng,None,BrkTil,Detchd,93
+4,616,336,1304,5,1,2Story,CemntBd,None,PConc,BuiltIn,29
+4,1088,1025,1959,8,22,2Story,VinylSd,None,PConc,Attchd,1
+3,1052,480,1610,3,5,1.5Fin,Wd Sdng,None,CBlock,Attchd,72
+3,765,440,1365,5,3,2Story,HdBoard,BrkFace,CBlock,Attchd,33
+3,720,484,1308,5,16,2Story,VinylSd,None,CBlock,Detchd,39
+3,925,576,925,5,11,1Story,HdBoard,None,CBlock,Detchd,43
+3,407,297,407,2,4,1Story,VinylSd,None,BrkTil,Detchd,62
+3,1580,440,1580,6,11,1Story,Wd Sdng,Stone,CBlock,Attchd,51
+3,1292,520,1292,5,11,1Story,HdBoard,Stone,CBlock,Detchd,45
+4,854,434,1694,7,22,2Story,Wd Sdng,None,PConc,BuiltIn,9
+5,1630,860,1630,8,20,1Story,VinylSd,Stone,PConc,Attchd,1
+4,1301,462,2417,8,26,2Story,HdBoard,BrkFace,CBlock,Attchd,15
+3,995,264,995,5,6,1Story,MetalSd,None,BrkTil,Detchd,84
+3,1067,576,1539,5,6,1.5Fin,Wd Sdng,None,BrkTil,Detchd,73
+3,1150,288,1836,5,2,2.5Unf,Wd Sdng,None,BrkTil,Detchd,108
+3,980,384,980,5,11,SLvl,VinylSd,None,PConc,Attchd,39
+4,1455,644,1455,7,18,1Story,VinylSd,BrkFace,PConc,Attchd,5
+5,1943,1040,2656,9,27,2Story,CemntBd,BrkFace,PConc,Attchd,0
+4,1036,484,1036,8,17,1Story,Wd Sdng,None,CBlock,Detchd,26
+0,1664,0,1664,5,5,1Story,AsphShn,None,CBlock,,45
+3,842,250,1472,5,4,1.5Fin,VinylSd,None,PConc,Detchd,82
+2,599,0,599,2,4,1Story,Stucco,None,PConc,,69
+3,836,345,836,7,12,1Story,Plywood,None,CBlock,Attchd,33
+4,698,350,1746,6,14,2Story,VinylSd,None,PConc,BuiltIn,1
+3,1103,462,1103,6,16,1Story,HdBoard,BrkFace,CBlock,Attchd,32
+4,1222,615,1222,7,20,1Story,VinylSd,Stone,PConc,Attchd,0
+3,1052,240,2192,5,8,2.5Fin,Wd Sdng,None,PConc,Detchd,69
+3,780,544,1375,6,2,1.5Fin,Wd Sdng,None,PConc,Detchd,70
+3,546,0,1092,4,1,2Story,CemntBd,None,CBlock,,36
+3,1218,506,2161,7,19,1.5Fin,VinylSd,None,CBlock,Attchd,58
+4,1022,747,1022,5,20,1Story,VinylSd,None,PConc,Detchd,13
+4,1337,511,1337,6,11,1Story,MetalSd,None,PConc,Attchd,6
+3,1052,440,1052,6,23,SLvl,HdBoard,BrkFace,CBlock,Attchd,39
+3,864,280,864,4,11,1Story,MetalSd,None,CBlock,Attchd,36
+4,630,286,630,4,1,SFoyer,CemntBd,None,CBlock,Attchd,39
+5,936,460,936,6,13,SFoyer,VinylSd,BrkFace,PConc,Attchd,11
+4,1175,575,1982,7,15,2Story,Plywood,BrkFace,CBlock,Attchd,18
+5,1136,872,2468,8,27,2Story,VinylSd,BrkFace,PConc,BuiltIn,3
+4,1108,583,2097,7,20,2Story,VinylSd,None,PConc,Detchd,8
+3,882,240,882,5,11,1Story,MetalSd,Stone,CBlock,Attchd,56
+3,483,288,987,6,3,2Story,HdBoard,BrkFace,CBlock,Attchd,34
+5,1582,905,1582,8,27,1Story,VinylSd,Stone,PConc,Attchd,1
+3,903,379,1281,5,6,1.5Fin,Wd Sdng,None,BrkTil,Detchd,81
+4,1182,516,2199,8,26,2.5Unf,HdBoard,BrkFace,PConc,Attchd,11
+0,808,164,808,5,6,1Story,Plywood,None,CBlock,Attchd,63
+3,1160,538,2126,5,23,2Story,Plywood,None,PConc,Attchd,42
+4,1428,554,1428,7,22,1Story,VinylSd,Stone,PConc,Attchd,0
+3,840,0,840,5,4,1.5Unf,WdShing,None,BrkTil,,77
+3,1038,264,1038,5,5,1Story,Wd Sdng,BrkFace,CBlock,Attchd,23
+4,804,440,1548,6,12,2Story,Plywood,None,CBlock,Detchd,33
+2,734,440,1118,6,4,1.5Fin,Stucco,None,BrkTil,Detchd,86
+3,1104,365,1801,6,19,2Story,Wd Sdng,None,PConc,Attchd,76
+3,950,280,950,5,11,1Story,HdBoard,None,CBlock,Detchd,36
+4,625,625,1250,7,22,2Story,MetalSd,None,PConc,Detchd,2
+4,1200,521,1200,6,20,1Story,VinylSd,None,PConc,Attchd,12
+3,1141,568,1141,5,11,SLvl,MetalSd,BrkFace,PConc,Attchd,39
+4,1069,440,1069,6,12,1Story,Plywood,None,CBlock,Attchd,31
+4,938,308,938,5,20,1Story,VinylSd,None,CBlock,Detchd,33
+4,1114,0,1114,5,15,1Story,VinylSd,None,PConc,,5
+4,1726,561,1726,6,22,1Story,VinylSd,Stone,PConc,Attchd,1
+3,832,528,832,6,11,1.5Unf,MetalSd,None,CBlock,Detchd,54
+3,628,215,1228,7,19,2Story,Wd Sdng,None,BrkTil,Detchd,91
+4,1344,686,1344,5,13,1Story,VinylSd,None,PConc,Attchd,11
+3,925,252,925,5,11,1Story,VinylSd,None,CBlock,Detchd,51
+3,876,320,876,4,5,1Story,AsbShng,None,CBlock,Detchd,50
+4,965,580,965,5,20,SFoyer,VinylSd,None,PConc,Attchd,14
+3,1570,441,1570,6,11,1Story,Wd Sdng,BrkFace,CBlock,Attchd,50
+3,919,195,919,6,2,1Story,VinylSd,None,BrkTil,Detchd,82
+3,1258,528,1258,6,16,1Story,VinylSd,BrkFace,CBlock,Attchd,37
+4,848,420,848,6,20,1Story,VinylSd,BrkFace,PConc,Attchd,6
+4,1567,638,2654,5,7,2Story,Wd Sdng,BrkFace,CBlock,Attchd,87
+3,682,440,1230,5,4,2Story,Wd Sdng,None,PConc,Detchd,99
+3,1254,1488,1436,5,4,1.5Fin,Wd Sdng,None,BrkTil,Detchd,86
+3,1360,336,1360,5,13,1Story,Plywood,BrkFace,PConc,Attchd,37
+4,1700,773,2212,7,14,2Story,VinylSd,BrkFace,PConc,Attchd,1
+2,1022,184,1022,5,4,1Story,AsbShng,None,PConc,Detchd,85
+3,1374,286,1374,6,11,1Story,Wd Sdng,BrkFace,CBlock,Attchd,43
+3,1261,433,1261,6,11,1Story,MetalSd,None,CBlock,Attchd,50
+3,1155,576,1155,5,7,SFoyer,HdBoard,None,CBlock,Detchd,49
+3,1120,544,1120,4,7,1Story,VinylSd,None,CBlock,Attchd,46
+5,1838,524,1838,8,20,1Story,VinylSd,Stone,PConc,Attchd,2
+4,1492,596,1492,7,22,1Story,VinylSd,None,PConc,Attchd,8
+3,810,472,1306,5,4,1.5Fin,VinylSd,None,CBlock,Detchd,99
+4,796,0,796,5,13,SFoyer,Wd Sdng,None,CBlock,,36
+3,1144,456,1144,5,11,1Story,VinylSd,BrkFace,CBlock,Attchd,47
+3,988,240,1505,5,6,1.5Fin,MetalSd,None,CBlock,Detchd,68
+5,1838,765,1838,9,21,1Story,VinylSd,BrkFace,PConc,Attchd,3
+3,1285,784,2067,7,16,2Story,VinylSd,None,CBlock,Attchd,35
+2,884,0,1540,5,4,2Story,MetalSd,None,BrkTil,,103
+3,816,816,816,5,13,1Story,HdBoard,None,PConc,Detchd,26
+4,816,516,816,5,2,1Story,Wd Sdng,None,CBlock,CarPort,47
+5,1816,730,1816,9,27,1Story,VinylSd,Stone,PConc,Attchd,1
+3,1014,230,1426,5,6,1.5Fin,Wd Sdng,None,BrkTil,Detchd,77
+4,944,608,1870,7,20,2Story,VinylSd,None,PConc,Attchd,8
+4,894,440,894,5,20,1Story,HdBoard,None,CBlock,Attchd,33
+4,790,566,1574,6,16,2Story,HdBoard,BrkFace,PConc,Attchd,30
+4,1500,648,1500,7,18,1Story,VinylSd,BrkFace,PConc,Attchd,0
+3,789,200,789,5,19,1.5Unf,Wd Sdng,None,BrkTil,Detchd,81
+3,960,576,960,5,4,1Story,Wd Sdng,None,CBlock,Detchd,51
+3,882,525,882,4,11,1Story,Plywood,None,CBlock,Attchd,40
+4,1212,460,1212,6,5,1Story,VinylSd,None,PConc,Attchd,1
+3,832,250,1268,5,8,1.5Fin,MetalSd,BrkFace,PConc,Basment,71
+3,585,0,1053,5,5,1.5Fin,Wd Sdng,None,PConc,,70
+5,1466,1052,2828,8,20,2Story,VinylSd,Stone,PConc,BuiltIn,1
+4,1418,558,1418,7,20,1Story,VinylSd,BrkFace,PConc,Attchd,11
+0,1226,400,1226,5,19,1Story,Wd Sdng,None,CBlock,Attchd,56
+3,819,576,1320,6,11,1.5Fin,Wd Sdng,None,CBlock,Detchd,60
+3,800,0,800,2,6,1Story,AsbShng,None,BrkTil,,73
+4,1340,396,1340,7,14,1Story,VinylSd,None,PConc,Attchd,0
+4,1090,646,2214,8,20,2Story,VinylSd,BrkFace,PConc,Attchd,7
+0,1152,0,1152,4,5,1Story,AsbShng,BrkCmn,PConc,,52
+4,774,400,1430,7,14,SLvl,VinylSd,None,PConc,BuiltIn,10
+4,1232,632,1232,7,20,1Story,VinylSd,Stone,PConc,Attchd,2
+0,1535,410,1535,5,15,1Story,HdBoard,None,Slab,Attchd,30
+3,1136,240,1904,5,11,1.5Fin,VinylSd,None,CBlock,Attchd,59
+3,890,308,890,5,7,1Story,HdBoard,None,CBlock,Detchd,40
+3,728,308,1456,6,4,2.5Unf,Wd Sdng,None,BrkTil,Detchd,93
+0,2020,630,2020,5,15,1Story,Plywood,BrkFace,Slab,Detchd,30
+4,738,552,1476,7,20,2Story,VinylSd,None,PConc,Attchd,0
+3,1065,461,1065,5,11,1Story,MetalSd,BrkCmn,CBlock,Detchd,47
+5,2522,564,2522,8,28,1Story,CemntBd,None,PConc,Attchd,5
+4,1131,0,1131,6,15,1Story,VinylSd,None,PConc,,1
+3,1102,484,2177,5,19,2Story,VinylSd,BrkFace,CBlock,Detchd,60
+3,1699,336,2447,6,8,1.5Fin,Wd Sdng,None,PConc,Detchd,91
+3,864,338,864,5,20,1Story,HdBoard,None,CBlock,Attchd,37
+3,864,200,864,3,5,1Story,Stucco,None,BrkTil,Detchd,96
+4,754,400,1394,5,21,SLvl,VinylSd,None,PConc,BuiltIn,2
+4,756,440,1512,6,22,2Story,MetalSd,BrkFace,PConc,Detchd,10
+4,970,380,1709,6,5,2Story,VinylSd,Stone,PConc,Detchd,2
+3,1444,473,1444,6,16,1Story,HdBoard,BrkFace,CBlock,Attchd,32
+3,1248,286,1248,5,11,1Story,Wd Sdng,BrkFace,CBlock,Attchd,46
+3,958,686,1539,5,4,2Story,MetalSd,None,PConc,Detchd,104
+5,1620,912,1620,9,21,1Story,VinylSd,Stone,PConc,Attchd,2
+3,860,528,860,5,7,SFoyer,HdBoard,None,CBlock,Detchd,27
+5,1468,528,1468,6,22,1Story,VinylSd,None,PConc,Attchd,5
+4,1571,722,1571,8,21,1Story,VinylSd,BrkFace,PConc,Attchd,0
+4,1082,480,1082,6,16,SFoyer,HdBoard,None,PConc,Attchd,38
+3,641,272,641,4,2,1Story,MetalSd,None,BrkTil,Detchd,81
+4,1284,647,2169,8,20,2Story,VinylSd,BrkFace,PConc,Attchd,5
+4,696,484,1416,7,22,2Story,MetalSd,None,PConc,Detchd,11
+4,1072,525,1072,6,5,SLvl,VinylSd,BrkFace,PConc,Basment,3
+4,892,502,1675,6,14,2Story,VinylSd,None,PConc,BuiltIn,10
+3,1175,484,1175,5,11,1Story,BrkFace,None,CBlock,Detchd,50
+3,833,326,833,5,4,1Story,MetalSd,None,CBlock,Detchd,52
+3,1048,280,1048,5,6,1.5Unf,MetalSd,None,BrkTil,Detchd,84
+4,1054,460,1054,6,11,1Story,HdBoard,None,CBlock,Attchd,39
+0,720,287,720,3,6,1Story,VinylSd,None,CBlock,Detchd,59
+3,774,528,1595,6,4,2Story,MetalSd,None,CBlock,Detchd,91
+4,847,434,1928,7,20,2Story,VinylSd,None,PConc,BuiltIn,4
+3,972,324,1944,6,4,2Story,Wd Sdng,None,CBlock,Detchd,99
+4,1223,525,2127,7,26,2Story,VinylSd,BrkFace,PConc,Attchd,14
+3,1382,884,1382,6,11,SLvl,Wd Sdng,BrkFace,CBlock,Attchd,47
+4,1032,564,1032,6,16,SLvl,HdBoard,BrkFace,CBlock,Attchd,29
+3,1105,515,1822,6,15,1.5Fin,Wd Sdng,None,CBlock,Attchd,23
+3,1740,512,1740,6,16,1Story,HdBoard,None,CBlock,Attchd,40
+3,1468,539,2263,7,16,2Story,Plywood,BrkFace,CBlock,Attchd,29
+5,1850,850,2748,9,27,2Story,VinylSd,BrkFace,PConc,BuiltIn,2
+4,1308,848,1876,7,20,2Story,VinylSd,None,PConc,BuiltIn,1
+3,1929,400,2461,5,11,1.5Fin,MetalSd,BrkFace,CBlock,Detchd,58
+3,960,480,1920,6,8,2.5Unf,Stucco,None,BrkTil,Detchd,78
+3,1224,576,1224,5,13,1Story,VinylSd,None,CBlock,Detchd,46
+4,2000,888,2000,8,20,1Story,CemntBd,Stone,PConc,Attchd,3
+4,1372,588,1372,8,22,1Story,VinylSd,None,PConc,Attchd,1
+4,1376,704,3005,7,22,2Story,MetalSd,None,PConc,BuiltIn,5
+4,975,524,1755,7,26,2Story,VinylSd,BrkFace,PConc,Attchd,18
+3,1144,240,1738,5,6,1.5Fin,Wd Sdng,None,BrkTil,Detchd,73
+4,970,0,970,5,13,SFoyer,HdBoard,None,PConc,,14
+3,1086,490,1086,5,11,1Story,Wd Sdng,BrkFace,CBlock,Attchd,56
+3,1148,281,1716,5,5,1.5Fin,Wd Sdng,None,CBlock,Attchd,60
+3,546,286,1092,4,1,2Story,CemntBd,None,CBlock,Attchd,37
+3,940,318,1550,6,19,2Story,Wd Sdng,None,PConc,Detchd,86
+3,780,352,780,5,20,1Story,HdBoard,None,CBlock,Detchd,36
+4,1779,925,2551,8,26,2Story,VinylSd,BrkFace,PConc,Attchd,10
+3,1610,515,1610,7,16,1Story,Wd Sdng,None,CBlock,Attchd,35
+4,961,460,1644,6,14,2Story,VinylSd,None,PConc,Attchd,8
+4,1574,824,1574,8,22,1Story,VinylSd,BrkFace,PConc,Attchd,2
+4,920,492,1820,6,15,2Story,VinylSd,None,PConc,Attchd,14
+3,930,441,1645,6,16,2Story,MetalSd,None,CBlock,Attchd,39
+4,1679,575,1679,6,15,1Story,HdBoard,BrkFace,PConc,Attchd,14
+5,2000,722,2000,9,28,1Story,VinylSd,BrkFace,PConc,Attchd,1
+3,1112,390,1112,5,19,1Story,BrkFace,None,BrkTil,Attchd,55
+4,941,688,1837,6,15,2Story,VinylSd,None,PConc,Attchd,9
+3,792,366,792,3,4,1Story,MetalSd,None,CBlock,Attchd,51
+3,912,315,912,5,7,1Story,Plywood,None,CBlock,Detchd,41
+5,1530,430,1530,7,28,1Story,VinylSd,Stone,PConc,Attchd,4
+3,1012,308,1012,6,2,1Story,BrkFace,None,BrkTil,Detchd,87
+4,1453,445,1453,7,23,1Story,Wd Sdng,None,PConc,Attchd,20
+4,1177,495,1177,6,16,1Story,Plywood,BrkFace,CBlock,Attchd,23
+5,846,650,1692,7,21,2Story,VinylSd,None,PConc,Attchd,0
+5,1544,784,2358,8,27,2Story,MetalSd,BrkFace,PConc,BuiltIn,1
+4,864,0,864,5,5,SFoyer,HdBoard,None,PConc,,33
+4,1668,502,1668,8,20,1Story,VinylSd,BrkFace,PConc,Attchd,7
+4,848,420,848,6,20,1Story,VinylSd,BrkFace,PConc,Attchd,4
+4,1132,451,1132,4,5,1Story,VinylSd,None,PConc,Attchd,3
+0,964,612,1882,6,15,2Story,Wd Sdng,None,Slab,Attchd,28
+3,896,730,896,5,11,1Story,VinylSd,None,CBlock,Attchd,49
+4,2362,546,2362,7,24,1Story,VinylSd,BrkFace,CBlock,Attchd,27
+3,2110,522,2110,7,11,1Story,BrkFace,None,CBlock,Attchd,42
+4,1062,539,1062,6,13,SLvl,HdBoard,None,PConc,Attchd,31
+3,1268,244,1268,5,11,1Story,HdBoard,BrkFace,PConc,Attchd,56
+3,1005,672,1005,4,11,1Story,Plywood,None,CBlock,Detchd,54
+5,1698,730,1698,9,27,1Story,VinylSd,BrkFace,PConc,Attchd,5
+4,1553,588,1553,7,22,1Story,VinylSd,None,PConc,Attchd,6
+3,736,0,1452,4,4,2Story,MetalSd,None,BrkTil,,89
+3,1216,280,1216,5,11,1Story,HdBoard,Stone,CBlock,Attchd,55
+3,1096,299,1096,5,11,1Story,VinylSd,None,CBlock,Attchd,37
+3,832,240,1210,5,6,1.5Fin,Wd Sdng,None,CBlock,Detchd,67
+3,1307,360,2358,6,23,1.5Fin,Wd Sdng,None,BrkTil,Detchd,100
+4,1238,628,2519,7,21,2Story,MetalSd,BrkFace,PConc,Attchd,17
+4,983,480,1739,8,22,2Story,MetalSd,BrkFace,PConc,Attchd,10
+3,1661,377,1661,6,11,SLvl,AsbShng,None,CBlock,BuiltIn,53
+3,2039,791,2039,7,11,1Story,BrkFace,None,CBlock,2Types,65
+4,1436,484,1436,7,20,1Story,VinylSd,BrkFace,PConc,Attchd,4
+5,1053,648,1992,8,22,2Story,VinylSd,BrkFace,PConc,Attchd,5
+4,985,328,985,5,20,SLvl,HdBoard,BrkFace,CBlock,Attchd,31
+3,630,264,1302,5,3,2Story,CemntBd,BrkFace,CBlock,Detchd,37
+4,1145,836,2198,8,26,2Story,VinylSd,BrkFace,PConc,Attchd,8
+4,1392,650,1392,5,13,1Story,VinylSd,BrkFace,PConc,Attchd,5
+3,1411,544,1411,7,16,1Story,Plywood,BrkFace,CBlock,Attchd,32
+3,1043,273,1043,5,11,1Story,BrkFace,None,CBlock,Detchd,59
+4,1618,880,1618,8,27,1Story,VinylSd,BrkFace,PConc,Attchd,2
+2,761,252,1141,4,4,1.5Fin,MetalSd,None,BrkTil,Detchd,107
+4,1314,552,1314,8,22,1Story,CemntBd,Stone,PConc,Attchd,0
+4,962,451,1792,6,14,2Story,VinylSd,BrkFace,PConc,Attchd,8
+4,1068,570,2184,8,20,2Story,VinylSd,BrkFace,PConc,BuiltIn,6
+4,1004,504,1004,6,13,SFoyer,Plywood,BrkFace,CBlock,Attchd,29
+3,1797,963,1797,5,11,1Story,Wd Sdng,Stone,CBlock,Attchd,49
+4,796,480,1362,5,13,1.5Fin,VinylSd,None,Wood,Attchd,16
+3,904,869,1499,5,4,1.5Fin,MetalSd,None,CBlock,Detchd,62
+3,735,497,1395,6,16,2Story,HdBoard,None,CBlock,Attchd,37
+3,1068,264,1068,6,7,1Story,HdBoard,None,CBlock,Attchd,43
+3,1206,312,1206,5,11,1Story,MetalSd,BrkFace,CBlock,Attchd,51
+4,1494,530,1494,7,20,1Story,VinylSd,BrkFace,PConc,Attchd,6
+3,1088,484,1868,5,16,2Story,Plywood,BrkFace,CBlock,Attchd,33
+3,1526,364,1526,5,5,1Story,HdBoard,Stone,CBlock,Basment,53
+3,1060,315,1245,5,4,1.5Fin,MetalSd,None,BrkTil,Detchd,90
+4,680,420,1470,6,14,2Story,VinylSd,BrkFace,PConc,BuiltIn,16
+3,2071,336,2071,5,23,SLvl,Wd Sdng,BrkFace,CBlock,Attchd,53
+4,892,513,1692,7,20,2Story,VinylSd,None,PConc,Attchd,13
+3,1403,570,2411,6,16,2Story,VinylSd,BrkFace,CBlock,Attchd,37
+3,818,210,1224,6,4,1.5Fin,MetalSd,None,CBlock,Detchd,83
+5,2028,880,2028,8,21,1Story,VinylSd,BrkFace,PConc,Attchd,1
+4,1696,972,1696,8,22,1Story,VinylSd,Stone,PConc,Attchd,1
+3,1226,240,1668,5,4,1.5Fin,MetalSd,Stone,CBlock,Detchd,58
+4,855,440,1456,6,12,2Story,Plywood,None,CBlock,Attchd,32
+3,1445,645,1445,6,11,SLvl,MetalSd,BrkFace,CBlock,Attchd,45
+3,1040,648,1040,4,13,1Story,HdBoard,None,PConc,Attchd,44
+3,672,264,1218,6,3,2Story,HdBoard,BrkFace,CBlock,Detchd,34
+5,2552,932,2552,9,27,1Story,VinylSd,Stone,PConc,Attchd,0
+1,671,195,1049,4,2,1.5Fin,Plywood,None,PConc,Detchd,98
+4,734,489,1408,5,5,2Story,VinylSd,None,PConc,BuiltIn,2
+4,1324,550,1324,8,27,1Story,MetalSd,BrkFace,PConc,Attchd,1
+3,926,351,926,6,13,SFoyer,Plywood,None,CBlock,Attchd,32
+4,1044,621,2098,7,20,2Story,VinylSd,None,PConc,Attchd,13
+3,1382,459,1382,4,7,1Story,HdBoard,BrkFace,CBlock,Attchd,43
+3,1839,416,1839,6,19,1Story,CemntBd,BrkFace,PConc,Attchd,50
+3,1242,360,1984,6,4,2.5Unf,Wd Sdng,None,PConc,Detchd,98
+5,1960,714,1960,8,21,1Story,VinylSd,Stone,PConc,Attchd,1
+4,958,390,1628,7,14,SLvl,HdBoard,BrkFace,PConc,BuiltIn,13
+4,1190,578,1190,7,20,1Story,VinylSd,None,PConc,Attchd,2
+4,1482,749,2262,8,21,2Story,VinylSd,Stone,PConc,Attchd,5
+4,1190,430,1190,6,14,1Story,HdBoard,BrkFace,PConc,Attchd,16
+4,1127,455,2013,7,26,2Story,MetalSd,None,PConc,Attchd,11
+0,1472,484,1472,7,11,1Story,Plywood,BrkCmn,Slab,Attchd,47
+3,1728,352,1728,5,11,1Story,HdBoard,BrkFace,CBlock,Detchd,43
+3,2117,550,2117,6,11,1Story,BrkFace,None,CBlock,Attchd,38
+3,932,225,1374,5,19,1.5Fin,Wd Sdng,None,BrkTil,Detchd,70
+3,1625,484,1625,5,16,1Story,MetalSd,None,CBlock,Detchd,43
+4,796,666,1612,7,21,2Story,VinylSd,Stone,PConc,Attchd,0
+3,958,301,958,6,11,1Story,MetalSd,None,CBlock,Attchd,47
+3,997,548,1470,4,5,1.5Fin,MetalSd,None,PConc,Detchd,54
+3,1296,0,2592,5,8,2Story,Wd Sdng,None,PConc,,84
+4,756,440,1512,6,22,2Story,MetalSd,BrkFace,PConc,Detchd,7
+5,1390,660,2795,9,28,2Story,VinylSd,BrkFace,PConc,BuiltIn,1
+3,596,189,1192,5,2,2Story,Wd Sdng,None,PConc,Detchd,89
+4,768,396,768,5,20,SFoyer,WdShing,None,CBlock,Detchd,37
+3,774,305,1230,4,6,1.5Fin,MetalSd,None,CBlock,Detchd,60
+4,1383,354,1383,5,7,1Story,Wd Sdng,None,PConc,Attchd,54
+4,1651,870,1651,8,20,1Story,VinylSd,Stone,PConc,Attchd,0
+4,516,462,1032,6,10,2Story,MetalSd,None,CBlock,Detchd,28
+5,1518,670,2149,7,13,1.5Fin,VinylSd,None,PConc,Attchd,6
+3,1440,480,1440,5,11,1Story,HdBoard,None,CBlock,Attchd,49
+4,1173,528,1173,7,16,SFoyer,Plywood,BrkFace,CBlock,Attchd,36
+4,1654,900,1654,7,20,1Story,VinylSd,Stone,PConc,Attchd,4
+4,1298,403,1298,6,15,1Story,Wd Sdng,BrkFace,CBlock,Attchd,21
+4,1251,762,2349,8,26,2Story,HdBoard,BrkFace,PConc,Attchd,17
+4,1675,365,1675,5,23,1Story,HdBoard,BrkFace,CBlock,Attchd,51
+4,1295,571,1295,8,17,1Story,Wd Sdng,None,CBlock,Attchd,29
+4,1020,509,1020,8,10,1Story,HdBoard,None,CBlock,Attchd,19
+4,1502,644,1502,7,27,1Story,VinylSd,Stone,PConc,Attchd,0
+4,1604,660,1604,7,20,1Story,VinylSd,Stone,PConc,Attchd,3
+4,1085,481,1930,7,16,2Story,HdBoard,BrkFace,CBlock,Attchd,28
+3,1339,294,1339,5,11,1Story,BrkFace,None,CBlock,Attchd,51
+3,984,308,984,6,2,1Story,VinylSd,None,BrkTil,Detchd,76
+3,774,410,1430,7,14,SLvl,VinylSd,None,PConc,BuiltIn,10
+3,942,0,1884,4,8,2Story,Wd Sdng,None,CBlock,,103
+4,1082,617,2322,7,14,2Story,VinylSd,None,PConc,Attchd,0
+3,1015,450,1015,5,6,1Story,MetalSd,None,BrkTil,Detchd,81
+3,949,370,949,5,6,1Story,Wd Sdng,None,BrkTil,Detchd,84
+4,728,390,1456,7,14,2Story,VinylSd,None,PConc,Attchd,4
+3,672,369,1316,6,19,2Story,Wd Sdng,None,BrkTil,Detchd,82
+3,864,624,864,5,11,1Story,VinylSd,None,CBlock,Detchd,48
+3,1144,286,1144,5,11,1Story,Wd Sdng,BrkFace,CBlock,Attchd,53
+4,1305,803,2494,8,26,2Story,VinylSd,BrkFace,PConc,Attchd,12
+3,672,440,1386,6,7,2Story,HdBoard,BrkCmn,CBlock,Attchd,32
+3,1728,0,1728,5,11,1Story,HdBoard,BrkFace,CBlock,,48
+4,1358,484,1358,7,27,1Story,VinylSd,Stone,PConc,Attchd,1
+5,1372,529,1372,7,22,1Story,VinylSd,None,PConc,Attchd,1
+3,1906,576,1906,6,19,1Story,HdBoard,Stone,PConc,Basment,55
+2,1047,273,1047,4,4,1Story,VinylSd,None,BrkTil,Detchd,122
+3,960,432,960,4,5,1Story,HdBoard,BrkFace,CBlock,Attchd,42
+4,698,465,1400,6,15,2Story,VinylSd,BrkFace,CBlock,Attchd,23
+4,1388,522,1388,6,23,1Story,Plywood,None,CBlock,Attchd,38
+3,894,384,894,5,7,1Story,VinylSd,None,CBlock,Detchd,41
+4,1827,636,2786,9,26,1.5Fin,Wd Sdng,BrkFace,PConc,Attchd,15
+3,1084,576,1951,4,4,1.5Fin,MetalSd,None,PConc,Detchd,106
+4,684,462,1404,7,22,SLvl,VinylSd,BrkFace,PConc,Detchd,9
+4,1187,400,1717,7,21,1.5Fin,HdBoard,BrkFace,CBlock,Attchd,17
+5,2036,792,2640,9,22,2Story,VinylSd,None,PConc,Attchd,0
+3,1118,264,1118,5,11,1Story,Wd Sdng,None,CBlock,Attchd,48
+3,1728,574,1728,6,13,1Story,Plywood,None,CBlock,Attchd,30
+3,1232,490,1232,5,11,1Story,VinylSd,BrkFace,CBlock,Attchd,44
+4,1145,397,1145,7,18,1Story,VinylSd,BrkFace,PConc,Attchd,4
+3,1383,292,1383,6,11,1Story,Wd Sdng,BrkFace,CBlock,Attchd,46
+5,1828,523,1828,8,20,1Story,HdBoard,BrkFace,PConc,Attchd,7
+4,1342,550,1342,8,27,1Story,MetalSd,BrkFace,PConc,Attchd,2
+3,1091,344,1091,6,19,1Story,WdShing,BrkFace,PConc,Attchd,57
+3,984,384,984,5,7,1Story,Wd Sdng,None,PConc,Attchd,45
+4,1826,758,1826,8,28,1Story,VinylSd,BrkFace,PConc,Attchd,1
+3,1154,336,1154,5,11,1Story,VinylSd,None,CBlock,Detchd,54
+4,971,300,971,5,20,1Story,HdBoard,None,CBlock,Attchd,37
+3,1051,264,1051,5,11,1Story,Plywood,None,CBlock,Attchd,40
+3,1165,498,2061,7,16,2Story,Plywood,BrkFace,CBlock,Attchd,35
+4,764,474,1626,7,27,2Story,VinylSd,Stone,PConc,BuiltIn,6
+4,1332,586,1524,7,23,1Story,Plywood,None,PConc,Attchd,31
+4,936,384,936,5,5,SFoyer,HdBoard,BrkFace,CBlock,Attchd,40
+4,646,497,1308,6,20,2Story,VinylSd,None,PConc,Attchd,10
+4,1295,528,1295,6,16,1Story,HdBoard,BrkFace,PConc,Attchd,39
+4,2207,576,2207,7,11,1Story,Plywood,BrkFace,CBlock,Attchd,40
+4,932,644,1852,7,22,2Story,VinylSd,None,PConc,Attchd,0
+3,516,452,1032,6,10,2Story,MetalSd,None,CBlock,Detchd,29
+3,1282,672,1282,6,20,SLvl,HdBoard,BrkFace,CBlock,Detchd,28
+5,1204,412,1204,6,13,1Story,VinylSd,BrkFace,PConc,Attchd,11
+3,1342,457,1342,6,16,1Story,BrkFace,None,CBlock,Attchd,42
+3,864,288,864,6,11,1Story,WdShing,BrkFace,CBlock,Attchd,47
+4,943,600,943,5,11,SFoyer,MetalSd,None,CBlock,Detchd,27
+4,1163,396,1674,6,5,1.5Fin,Wd Sdng,None,BrkTil,Detchd,90
+2,840,379,1605,3,4,2Story,VinylSd,None,CBlock,Detchd,95
+4,1478,495,1478,8,28,1Story,CemntBd,None,PConc,Attchd,11
+4,630,286,630,4,1,SFoyer,CemntBd,None,CBlock,Attchd,39
+4,840,500,1668,7,20,2Story,VinylSd,BrkFace,PConc,Attchd,4
+3,833,0,833,5,13,1Story,HdBoard,None,CBlock,,24
+5,1944,708,1944,9,27,1Story,VinylSd,None,PConc,Attchd,3
+4,767,367,767,7,11,SFoyer,MetalSd,BrkFace,PConc,Attchd,9
+3,765,440,1365,5,3,2Story,HdBoard,None,CBlock,Attchd,39
+3,1313,610,1313,5,11,1Story,Wd Sdng,BrkFace,CBlock,Attchd,48
+4,1229,672,1229,5,15,SFoyer,Plywood,BrkFace,CBlock,Detchd,30
+4,840,550,1725,7,20,2Story,VinylSd,,PConc,Attchd,7
+5,1491,571,1491,6,21,1Story,VinylSd,BrkFace,PConc,Attchd,11
+4,1190,577,2090,7,28,2Story,HdBoard,None,CBlock,Attchd,23
+3,1216,616,2432,5,13,2Story,HdBoard,None,PConc,Attchd,25
+3,1582,390,1582,5,23,1Story,Wd Sdng,BrkCmn,CBlock,Attchd,42
+4,1530,630,1530,7,14,1Story,VinylSd,None,PConc,Attchd,3
+5,2046,834,2046,8,28,1Story,VinylSd,Stone,PConc,Attchd,1
+4,1390,545,1390,7,20,1Story,VinylSd,None,PConc,Attchd,3
+3,1084,488,1877,6,16,2Story,HdBoard,None,CBlock,Attchd,33
+3,1104,480,1988,6,11,2Story,VinylSd,BrkFace,CBlock,Attchd,42
+3,1211,322,1211,5,7,1Story,HdBoard,None,CBlock,Attchd,40
+3,864,528,864,4,11,1Story,HdBoard,None,PConc,Detchd,36
+3,925,390,925,5,11,1Story,MetalSd,None,CBlock,Attchd,52
