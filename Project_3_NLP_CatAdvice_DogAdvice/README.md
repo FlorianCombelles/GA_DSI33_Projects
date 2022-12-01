@@ -79,13 +79,13 @@ In order to optimise the results of our models we will also make use of:
 
 #### Conclusions of our modeling and recommendations
 
- 
+ After our extensive round of modelling and testing 3 different types of Count Vectorizers and 4 types of models, our best model is the Multinomial Naive Bayes using Count Vectorizer.
+
+| Min ocurence 	| Max occurence 	| Max number of features 	| N-Gram Range       	|
+|--------------	|---------------	|------------------------	|--------------------	|
+|       2      	| 50% of corpus 	|          9000          	| Unigram and Bigram 	|
 
 
-###### Recommendations: 
-
-
-
-###### Limitations of our model
-
-
+      Model        	| Data Vectorization 	| Cross Val Score 	| Train Score 	| Test Accuracy 	|    Recall    	|  Precision  	|     F1     	|     AUC     	|
+|:-------------------:	|:------------------:	|:---------------:	|:-----------:	|:-------------:	|:------------:	|:-----------:	|:----------:	|-------------	|
+| Multinomial NB      	| Count Vectorizer   	|      87.86%     	|    96.84%   	|     88.79%    	|    85.23%    	|    91.69%   	|   88.34%   	|     0.95    	|
