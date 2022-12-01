@@ -89,3 +89,17 @@ In order to optimise the results of our models we will also make use of:
 |       Model          | Data Vectorization 	| Cross Val Score 	| Train Score 	| Test Accuracy 	|    Recall    	|  Precision  	|     F1     	|     AUC     	|
 |:-------------------:	|:------------------:	|:---------------:	|:-----------:	|:-------------:	|:------------:	|:-----------:	|:----------:	|-------------	|
 | Multinomial NB      	| Count Vectorizer   	|      87.86%     	|    96.84%   	|     88.79%    	|    85.23%    	|    91.69%   	|   88.34%   	|     0.95    	|
+
+Using our model, we will be able to precit and assign queries related to cats and dogs to our team of experts with an precision of almost 92%.
+
+Using Word Vectors we are also able to provide insights on the most similar words in our traiend dataset.
+
+This can be useful to provide recommended articles based on the users searches or queries.
+
+#### Limitations
+
+This model is specific to cats and dogs.
+* We can consider extending it to other popular animals.
+
+Recommendations and sources for articles is based on global trends.
+* In order to tailor the content to a particular population, we might want to explore using localised sources of informations
