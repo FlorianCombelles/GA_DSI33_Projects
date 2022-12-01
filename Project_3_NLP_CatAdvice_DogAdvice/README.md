@@ -86,6 +86,6 @@ In order to optimise the results of our models we will also make use of:
 |       2      	| 50% of corpus 	|          9000          	| Unigram and Bigram 	|
 
 
-      Model        	| Data Vectorization 	| Cross Val Score 	| Train Score 	| Test Accuracy 	|    Recall    	|  Precision  	|     F1     	|     AUC     	|
+|       Model          | Data Vectorization 	| Cross Val Score 	| Train Score 	| Test Accuracy 	|    Recall    	|  Precision  	|     F1     	|     AUC     	|
 |:-------------------:	|:------------------:	|:---------------:	|:-----------:	|:-------------:	|:------------:	|:-----------:	|:----------:	|-------------	|
 | Multinomial NB      	| Count Vectorizer   	|      87.86%     	|    96.84%   	|     88.79%    	|    85.23%    	|    91.69%   	|   88.34%   	|     0.95    	|
