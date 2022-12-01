@@ -1,97 +1,91 @@
 # General Assembly - DSI 33
-## Project 2 - Machine Learning and Regression Models
-### Ames Housing Data and Kaggle Challenge
+## Project 3 Web APIs & NLP
+### DogAdvice and CatAdvice subreddits
  
- This second project make use of:
- * Basic statistics and probability
- * Python programming concepts
- * EDA
- * Visualizations
- * Machine Learning and Regression Modeling (Linear Regression, Lasso, Ridge)
- * Working with Jupyter notebooks for development and reporting
+ In week four we've learned about a few different classifiers. In week five we'll learn about webscraping, APIs, and Natural Language Processing (NLP). This project will put those skills to the test.
 
-For this second project, we are going to work with the Ames Housing dataset.
-It is an exceptionally detailed and robust dataset with over 70 columns of different features relating to houses in the town of Ames Iowa.
+For project 3, your goal is two-fold:
+1. Using [Pushshift's](https://github.com/pushshift/api) API, you'll collect posts from two subreddits of your choosing.
+2. You'll then use NLP to train a classifier on which subreddit a given post came from. This is a binary classification problem.
 
+###### Requirements
 
-### Problem Statement
+- Gather and prepare your data using the `requests` library.
+- **Create and compare two models**. One of these must be a Naive Bayes classifier, however the other can be a classifier of your choosing: logistic regression, KNN, SVM, etc.
+- A Jupyter Notebook with your analysis for a peer audience of data scientists.
+- An executive summary of your results.
+- A short presentation outlining your process and findings for a semi-technical audience.
 
-We are part of the data team of a real estate agency based in Ames area. The objective of our company is to provide the most accurate sale price to clients who are looking to sell their houses. We also provide counseling on how to optimise sale price based on different features.
-
-
-The housing and real estate market is getting more competitive and we're loosing the edge we once had to our competitor. Our current machine learning model is not accurate enough to keep up with the competition.
-We need to find a better model to regain the advantage.
+**Pro Tip:** You can find a good example executive summary [here](https://www.proposify.biz/blog/executive-summary).
 
 
-### Datasets
+### Problem Statement and background
+
+###### Problem Statement
+
+During Covid 19, we have seen an increase in the number of new pet owners in Singapore.
+These new inexperienced pet owners are facing a lack of ressources on how to care for their new pets.
+
+This leads to them having to overrely on veterinarians and pet stores to provides information and respond to their queries.
+
+This influx of inexperienced pets owners overly reliant on vets and pet store reduces their work efficiency and distract them from their main responsibilites
+
+
+##### Background
+
+We are working for a company called Pet Smart.
+
+We are releasing a new mobile app that includes two features:
+* A chat box where you can ask your cat or dog related question and get an answer from a team of experts.
+* Articles that provides informations and tips on how to care for your pets.
+
+
+### Data Acquisition
 
 For this analysis, we will use the following datasets.
 
+For this project, we will be scrapping [Reddit](https://www.reddit.com) and particularly two similar subreddits:
+* [DogAdvice](https://www.reddit.com/r/DogAdvice/)
+* [CatAdvice](https://www.reddit.com/r/CatAdvice/)
 
-* [`train.csv`]: Dataset used to generate and refine model
-* [`test.csv`]: Dataset used to predict the sale price of houses based on the train dataset
+###### These two subreddits are a place where people can post and look for information/advice regarding their dogs and cats.
 
+In order to acquire information from these two subreddits, we will be using the [Pushshift's](https://github.com/pushshift/api) API.
 
-### Data Dictionary
+This API was designed to help provide enhanced functionality and search capabilities for searching Reddit comments and submissions.
 
-Data dictionary is available [here](http://jse.amstat.org/v19n3/decock/DataDocumentation.txt)
+It provides full functionality for searching Reddit data and also includes the capability of creating powerful data aggregations
 
+### NLP 
+
+We will use the following NLP techniques to transform our text:
+* Remove Punctuations
+* Tokenize text
+* Remove stop words
+* Stem / Lemmatize
 
 ### Modeling Process
 
-Using the information stored in the [`train.csv`] dataset, we will generate our regression model and make use of:
-    - train-test split
-    - cross-validation / grid searching for hyperparameters
-    - strong exploratory data analysis to question correlation and relationship across predictive variables
-    - code that reproducibly and consistently applies feature transformation (such as the preprocessing library)
+We will be focusing mainly on three types of Naive Bayes models:
+* Bernoulli Naive Bayes
+* Multinomial Naive Bayes
+* Gaussian Naive Bayes
 
-Once these steps are done we will use the [`test.csv`] dataset we will:
-    - predict the values of target SalePrice column
-    - transform our data to fit required csv format
-    - upload our results to Kaggle challenge to see how model does against unseen data
-    
-Throughout each steps, we will need to evaluate our models and consider the following:
-    - what evaluation metrics to use
-    - our baseline score and how our models compare to this model
-    - how can our model be used for inference
-    - why we believe our model will generalize to new data
+We will also model Logistic Regressions, K-Nearest Neighbors and Random Forests.
+
+In order to optimise the results of our models we will also make use of:
+* Pipelines
+* Hyperparameters Tuning
 
 #### Conclusions of our modeling and recommendations
 
-Our baseline model had a margin of error of 80897$ when predicting sale price of houses.
-
-Using our first model, we managed to bring down the margin of error to 30334$. 
-However, for this first model we used a total 47 variables. This made our model quite complex and it could be hard to justify implementing it to stakeholders.
-Also, since a lot of the variables were heavily penalised by our model, it wasn't running optimaly.
-
-With this in mind, we reduced the number of variables making our new model simpler and easier to explain.
-We also managed to improve the results of our model both in term of accuracy and margin of error.
-
-Our final R2 value was 83.75% and the margin of error was 29854$.
-
-
-Using this new model, our company will be able to regain it's edge on the market and be able to deploy the best property value predictor on the market.
-
-Since our model is simple (6 variables), we can also recommend our clients which features to improve in order to maximise the sale price of their properties. 
+ 
 
 
 ###### Recommendations: 
 
-We could think of expanding our model not only to Ames properties but also to nearby town in other to increase the reach of our services.
-We would only need to get the sales history of neghboring towns and train our model on this new data.
-
-
-We can also leverage on our sale price improvement feature to gain another edge on the market, not only accuratly predicting sale price but also helping our clients in maximising the value of their properties using our coefficients.
-
-Finally, we can also targets properties in the neighborhoods with an higher average or median sale price and be more agressive on our marketing in these areas, as they would be the properties bringing us the highest commissions.
 
 
 ###### Limitations of our model
 
-As every model, we will need to retrain our model every week to remain accurate and adapt to new trends in the market.
 
-We also need to be mindful of the outliers in our model as the results can be heavily skewed by them
-
-Also, we used a transformation of Nieghborhoods based on SalePrice wich can lead to some issues with real time predictions.
-* Instead of using the median house price to rank neighborhood it would be better to be better to rank the neighborhood bu their level of amenities.
-This is something we should be focusing to improve our model.
